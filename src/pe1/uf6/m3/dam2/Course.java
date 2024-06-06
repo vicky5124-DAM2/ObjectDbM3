@@ -1,6 +1,7 @@
 package pe1.uf6.m3.dam2;
 
 import javax.jdo.annotations.Index;
+import javax.jdo.annotations.Unique;
 import javax.persistence.*;
 import java.util.Date;
 import java.util.LinkedList;
@@ -21,6 +22,7 @@ public class Course {
     @Basic(optional = false)
     private final LinkedList<Teacher> teachers;
     @Index(unique = "true")
+    @Unique
     private int id;
     @Basic(optional = false)
     private String fullname;

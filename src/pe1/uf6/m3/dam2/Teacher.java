@@ -10,7 +10,7 @@ import java.util.LinkedList;
         @NamedQuery(name = "Teacher.findById", query = "SELECT t FROM Teacher t WHERE t.id = :id"),
 })
 public class Teacher extends User {
-    @ManyToMany(fetch = FetchType.LAZY)
+    @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     private final LinkedList<Course> courses;
 
     public Teacher(int id, String username, String firstname, String lastname, String email, String city, Date lastLogin) {
