@@ -1,0 +1,116 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-05 19:06:26 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 753493@arch-pc2
+
+[2024-06-05 19:06:26 #2 store] 
+Configuration path: ?
+
+[2024-06-05 19:06:26 #3 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 753493@arch-pc2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-05 21:11:50 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 782479@arch-pc2
+
+[2024-06-05 21:11:50 #2 store] 
+Configuration path: ?
+
+[2024-06-05 21:11:51 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-05 21:11:51 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-05 21:11:51 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-05 21:11:51 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-05 21:12:21 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' has been recovered (tr. 10-10)
+
+[2024-06-05 21:12:21 #2 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 782602@arch-pc2
+
+[2024-06-05 21:12:21 #3 store] 
+Configuration path: ?
+
+[2024-06-05 21:12:21 #4 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-05 21:12:21 #5 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-05 21:12:21 #6 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-05 21:12:21 #7 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-05 21:12:21 #8 index] 
+Index activation started for class pe1.uf6.m3.dam2.User and its subclasses
+
+[2024-06-05 21:12:21 #9 index] 
+Index -106 was cleared
+
+[2024-06-05 21:12:21 #10 index] 
+Index -107 was cleared
+
+[2024-06-05 21:12:21 #11 index] 
+Index -108 was cleared
+
+[2024-06-05 21:12:21 #12 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 782602@arch-pc2
+
+[2024-06-05 21:12:21 #13 index] 
+Index activation batch completed: Size: 1000, Time: 14, Sleep: 21, Last PK: MAX
+
+[2024-06-05 21:12:21 #14 index] 
+Index activation completed for class pe1.uf6.m3.dam2.User and its subclasses
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-05 21:22:41 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 784178@arch-pc2
+
+[2024-06-05 21:22:41 #2 store] 
+Configuration path: ?
+
+[2024-06-05 21:22:41 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-05 21:22:41 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-05 21:22:41 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-05 21:22:41 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-05 21:22:41 #7 index] 
+Index activation started for class pe1.uf6.m3.dam2.User and its subclasses
+
+[2024-06-05 21:22:41 #8 index] 
+Index -106 was cleared
+
+[2024-06-05 21:22:41 #9 index] 
+Index -107 was cleared
+
+[2024-06-05 21:22:41 #10 index] 
+Index -108 was cleared
+
+[2024-06-05 21:22:41 #11 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 784178@arch-pc2
+
+[2024-06-05 21:22:41 #12 index] 
+Index activation batch completed: Size: 1000, Time: 15, Sleep: 22, Last PK: MAX
+
+[2024-06-05 21:22:41 #13 index] 
+Index activation completed for class pe1.uf6.m3.dam2.User and its subclasses
+

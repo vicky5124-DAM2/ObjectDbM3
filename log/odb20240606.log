@@ -1,0 +1,857 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 01:16:05 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 821598@arch-pc2
+
+[2024-06-06 01:16:05 #2 store] 
+Configuration path: ?
+
+[2024-06-06 01:16:05 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 01:16:05 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 01:16:05 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 01:16:05 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 01:16:05 #7 index] 
+Index activation started for class pe1.uf6.m3.dam2.User and its subclasses
+
+[2024-06-06 01:16:05 #8 index] 
+Index -106 was cleared
+
+[2024-06-06 01:16:05 #9 index] 
+Index -107 was cleared
+
+[2024-06-06 01:16:05 #10 index] 
+Index -108 was cleared
+
+[2024-06-06 01:16:05 #11 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 821598@arch-pc2
+
+[2024-06-06 01:16:05 #12 index] 
+Index activation batch completed: Size: 1000, Time: 14, Sleep: 21, Last PK: MAX
+
+[2024-06-06 01:16:05 #13 index] 
+Index activation completed for class pe1.uf6.m3.dam2.User and its subclasses
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 01:53:17 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 826470@arch-pc2
+
+[2024-06-06 01:53:17 #2 store] 
+Configuration path: ?
+
+[2024-06-06 01:53:17 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 01:53:17 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 01:53:17 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 01:53:17 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 01:53:17 #7 index] 
+Index activation started for class pe1.uf6.m3.dam2.User and its subclasses
+
+[2024-06-06 01:53:17 #8 index] 
+Index -106 was cleared
+
+[2024-06-06 01:53:17 #9 index] 
+Index -107 was cleared
+
+[2024-06-06 01:53:17 #10 index] 
+Index -108 was cleared
+
+[2024-06-06 01:53:17 #11 index] 
+Index activation batch completed: Size: 1000, Time: 14, Sleep: 21, Last PK: MAX
+
+[2024-06-06 01:53:17 #12 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 826470@arch-pc2
+
+[2024-06-06 01:53:17 #13 index] 
+Index activation completed for class pe1.uf6.m3.dam2.User and its subclasses
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 01:55:05 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 826761@arch-pc2
+
+[2024-06-06 01:55:05 #2 store] 
+Configuration path: ?
+
+[2024-06-06 01:55:05 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 01:55:05 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 01:55:05 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 01:55:05 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 01:55:05 #7 index] 
+Index activation started for class pe1.uf6.m3.dam2.User and its subclasses
+
+[2024-06-06 01:55:05 #8 index] 
+Index -106 was cleared
+
+[2024-06-06 01:55:05 #9 index] 
+Index -107 was cleared
+
+[2024-06-06 01:55:05 #10 index] 
+Index -108 was cleared
+
+[2024-06-06 01:55:05 #11 index] 
+Index activation batch completed: Size: 1000, Time: 14, Sleep: 21, Last PK: MAX
+
+[2024-06-06 01:55:05 #12 index] 
+Index activation completed for class pe1.uf6.m3.dam2.User and its subclasses
+
+[2024-06-06 01:55:05 #13 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 826761@arch-pc2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 01:56:23 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 827005@arch-pc2
+
+[2024-06-06 01:56:23 #2 store] 
+Configuration path: ?
+
+[2024-06-06 01:56:23 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 01:56:23 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 01:56:23 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 01:56:23 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 01:56:23 #7 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 827005@arch-pc2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 01:58:08 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 827317@arch-pc2
+
+[2024-06-06 01:58:08 #2 store] 
+Configuration path: ?
+
+[2024-06-06 01:58:08 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 01:58:08 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 01:58:08 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 01:58:08 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 01:58:08 #7 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 827317@arch-pc2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 01:58:53 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 827452@arch-pc2
+
+[2024-06-06 01:58:53 #2 store] 
+Configuration path: ?
+
+[2024-06-06 01:58:54 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 01:58:54 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 01:58:54 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 01:58:54 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 01:58:54 #7 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 827452@arch-pc2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:01:00 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 827801@arch-pc2
+
+[2024-06-06 02:01:00 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:01:00 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:01:00 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:01:00 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:01:00 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:07:39 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 828737@arch-pc2
+
+[2024-06-06 02:07:39 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:07:39 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:07:39 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:07:39 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:07:39 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:17:47 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 831750@arch-pc2
+
+[2024-06-06 02:17:47 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:17:47 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:17:47 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:17:47 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:17:47 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:19:14 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' has been recovered (tr. 9-9)
+
+[2024-06-06 02:19:14 #2 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 832019@arch-pc2
+
+[2024-06-06 02:19:14 #3 store] 
+Configuration path: ?
+
+[2024-06-06 02:19:14 #4 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:19:14 #5 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:19:14 #6 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:19:14 #7 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:21:56 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 832462@arch-pc2
+
+[2024-06-06 02:21:56 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:21:56 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:21:56 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:21:56 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:21:56 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:22:38 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 832672@arch-pc2
+
+[2024-06-06 02:22:38 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:22:38 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:22:38 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:22:38 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:22:38 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:25:23 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 833364@arch-pc2
+
+[2024-06-06 02:25:23 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:25:23 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:25:23 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:25:23 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:25:23 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:28:26 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 833887@arch-pc2
+
+[2024-06-06 02:28:26 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:28:26 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:28:26 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:28:26 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:28:26 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:29:36 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 834141@arch-pc2
+
+[2024-06-06 02:29:36 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:29:36 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:29:36 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:29:36 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:29:36 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:30:16 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 834339@arch-pc2
+
+[2024-06-06 02:30:16 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:30:16 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:30:16 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:30:16 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:30:16 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:30:40 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 834471@arch-pc2
+
+[2024-06-06 02:30:40 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:30:40 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:30:40 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:30:40 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:30:40 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:33:44 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 834898@arch-pc2
+
+[2024-06-06 02:33:44 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:33:44 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:33:44 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:33:44 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:33:44 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 02:33:44 #7 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 834898@arch-pc2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:36:28 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 835626@arch-pc2
+
+[2024-06-06 02:36:28 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:36:28 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:36:28 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:36:28 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:36:28 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 02:36:28 #7 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 835626@arch-pc2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 02:39:12 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 836157@arch-pc2
+
+[2024-06-06 02:39:12 #2 store] 
+Configuration path: ?
+
+[2024-06-06 02:39:12 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 02:39:12 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 02:39:12 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 02:39:12 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+[2024-06-06 02:39:12 #7 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is closed by 836157@arch-pc2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 12:58:38 #1 store] 
+Database '/mnt/storage/cole/m3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 919257@arch-pc2
+
+[2024-06-06 12:58:38 #2 store] 
+Configuration path: ?
+
+[2024-06-06 12:58:38 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 12:58:38 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 12:58:38 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 12:58:38 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:29:35 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 874185@transpad
+
+[2024-06-06 17:29:35 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:29:35 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:29:35 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:29:35 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:29:35 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:31:07 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 874342@transpad
+
+[2024-06-06 17:31:07 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:31:07 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:31:07 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:31:07 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:31:07 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:33:10 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 874492@transpad
+
+[2024-06-06 17:33:10 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:33:11 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:33:11 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:33:11 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:33:11 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:35:16 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 874675@transpad
+
+[2024-06-06 17:35:16 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:35:16 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:35:16 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:35:16 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:35:16 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:36:30 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 874829@transpad
+
+[2024-06-06 17:36:30 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:36:30 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:36:30 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:36:30 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:36:30 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:38:54 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 875021@transpad
+
+[2024-06-06 17:38:54 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:38:54 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:38:54 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:38:54 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:38:54 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:39:17 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' has been recovered (tr. 11-11)
+
+[2024-06-06 17:39:17 #2 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 875127@transpad
+
+[2024-06-06 17:39:17 #3 store] 
+Configuration path: ?
+
+[2024-06-06 17:39:17 #4 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:39:17 #5 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:39:17 #6 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:39:17 #7 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:42:48 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 875502@transpad
+
+[2024-06-06 17:42:48 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:42:49 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:42:49 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:42:49 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:42:49 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:43:08 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' has been recovered (tr. 13-13)
+
+[2024-06-06 17:43:09 #2 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 875569@transpad
+
+[2024-06-06 17:43:09 #3 store] 
+Configuration path: ?
+
+[2024-06-06 17:43:09 #4 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:43:09 #5 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:43:09 #6 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:43:09 #7 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:43:23 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' has been recovered (tr. 14-14)
+
+[2024-06-06 17:43:24 #2 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 875636@transpad
+
+[2024-06-06 17:43:24 #3 store] 
+Configuration path: ?
+
+[2024-06-06 17:43:24 #4 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:43:24 #5 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:43:24 #6 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:43:24 #7 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:45:59 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 876056@transpad
+
+[2024-06-06 17:45:59 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:45:59 #3 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:45:59 #4 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:45:59 #5 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:45:59 #6 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:46:45 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 876132@transpad
+
+[2024-06-06 17:46:45 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:46:46 #3 type] 
+Type pe1.uf6.m3.dam2.Course is not enhanced.
+
+[2024-06-06 17:46:46 #4 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:46:46 #5 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:46:46 #6 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:46:46 #7 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:47:02 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' has been recovered (tr. 15-15)
+
+[2024-06-06 17:47:02 #2 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 876221@transpad
+
+[2024-06-06 17:47:02 #3 store] 
+Configuration path: ?
+
+[2024-06-06 17:47:02 #4 type] 
+Type pe1.uf6.m3.dam2.Course is not enhanced.
+
+[2024-06-06 17:47:02 #5 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:47:02 #6 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:47:02 #7 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:47:02 #8 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:48:57 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' has been recovered (tr. 16-16)
+
+[2024-06-06 17:48:57 #2 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 876403@transpad
+
+[2024-06-06 17:48:57 #3 store] 
+Configuration path: ?
+
+[2024-06-06 17:48:57 #4 type] 
+Type pe1.uf6.m3.dam2.Course is not enhanced.
+
+[2024-06-06 17:48:57 #5 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:48:57 #6 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:48:57 #7 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:48:57 #8 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:50:57 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 876551@transpad
+
+[2024-06-06 17:50:57 #2 store] 
+Configuration path: ?
+
+[2024-06-06 17:50:57 #3 type] 
+Type pe1.uf6.m3.dam2.Course is not enhanced.
+
+[2024-06-06 17:50:57 #4 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:50:57 #5 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:50:57 #6 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:50:57 #7 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-06-06 17:51:38 #1 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' has been recovered (tr. 17-17)
+
+[2024-06-06 17:51:38 #2 store] 
+Database '/home/vicky/Documents/cole/M3/202223_UF6_Pe1_MOODLE_Alumnes/db/moodle.odb' is opened by 876652@transpad
+
+[2024-06-06 17:51:38 #3 store] 
+Configuration path: ?
+
+[2024-06-06 17:51:39 #4 type] 
+Type pe1.uf6.m3.dam2.Course is not enhanced.
+
+[2024-06-06 17:51:39 #5 type] 
+Type pe1.uf6.m3.dam2.User is not enhanced.
+
+[2024-06-06 17:51:39 #6 type] 
+Type pe1.uf6.m3.dam2.Teacher is not enhanced.
+
+[2024-06-06 17:51:39 #7 type] 
+Type pe1.uf6.m3.dam2.Enrollment is not enhanced.
+
+[2024-06-06 17:51:39 #8 type] 
+Type pe1.uf6.m3.dam2.Student is not enhanced.
+
