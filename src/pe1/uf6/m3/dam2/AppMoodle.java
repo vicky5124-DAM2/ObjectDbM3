@@ -74,7 +74,7 @@ public class AppMoodle {
             tx.begin();
 
             TypedQuery<Course> query = em.createNamedQuery("Course.findById", Course.class);
-            query.setParameter("id", 2).getSingleResult();
+            query.setParameter("id", 2);
 
             Course course = query.getSingleResult();
             course.setCategory("DAM2/DAW2");
@@ -129,8 +129,8 @@ public class AppMoodle {
             tx.commit();
         } catch (Exception e) {
             System.err.println("BAD 3");
-            System.err.println(e);
-            //throw new RuntimeException(e);
+            //System.err.println(e);
+            throw new RuntimeException(e);
         } finally {
             if (tx.isActive()) tx.rollback();
         }
