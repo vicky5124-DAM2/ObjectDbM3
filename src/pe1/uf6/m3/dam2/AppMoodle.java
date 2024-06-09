@@ -16,19 +16,21 @@ public class AppMoodle {
     public static void main(String[] args) throws Exception {
         initEM();
 
-        // Mètodes Exercici 3. Operacions CRUD
-        gestionarDades1();
-        gestionarDades2();
-        gestionarDades3();
-        gestionarDades4();
-        gestionarDades5();
+        try {
+            // Mètodes Exercici 3. Operacions CRUD
+            gestionarDades1();
+            gestionarDades2();
+            gestionarDades3();
+            gestionarDades4();
+            gestionarDades5();
 
-        // Mètodes Exercici 4. Consultes
-        //consultaDades1(2, "2018-09-01", "o");
-        //consultaDades2(5, 2, "DAM2");
-        //consultaDades3(1, "ASIX");
-
-        closeDatabase();
+            // Mètodes Exercici 4. Consultes
+            //consultaDades1(2, "2018-09-01", "o");
+            //consultaDades2(5, 2, "DAM2");
+            //consultaDades3(1, "ASIX");
+        } finally {
+            closeDatabase();
+        }
 
         System.out.println("FINAL");
     }
@@ -53,7 +55,7 @@ public class AppMoodle {
             System.err.println("Good 1");
             System.err.println(e);
             //throw new RuntimeException(e);
-        } finally {
+
             if (tx.isActive()) tx.rollback();
         }
     }
@@ -88,14 +90,13 @@ public class AppMoodle {
 
             tx.commit();
         } catch (Exception e) {
+            if (tx.isActive()) tx.rollback();
             System.err.println("BAD 2");
 
             throw new RuntimeException(e);
 
             //System.err.println(e);
             //return;
-        } finally {
-            if (tx.isActive()) tx.rollback();
         }
 
         System.err.println("Good 2");
@@ -128,11 +129,10 @@ public class AppMoodle {
 
             tx.commit();
         } catch (Exception e) {
+            if (tx.isActive()) tx.rollback();
             System.err.println("BAD 3");
             //System.err.println(e);
             throw new RuntimeException(e);
-        } finally {
-            if (tx.isActive()) tx.rollback();
         }
 
         System.err.println("Good 3");
@@ -158,11 +158,10 @@ public class AppMoodle {
 
             tx.commit();
         } catch (Exception e) {
+            if (tx.isActive()) tx.rollback();
             System.err.println("Good 4");
             System.err.println(e);
             //throw new RuntimeException(e);
-        } finally {
-            if (tx.isActive()) tx.rollback();
         }
     }
 
@@ -188,11 +187,10 @@ public class AppMoodle {
 
             tx.commit();
         } catch (Exception e) {
+            if (tx.isActive()) tx.rollback();
             System.err.println("Good 5");
             System.err.println(e);
             //throw new RuntimeException(e);
-        } finally {
-            if (tx.isActive()) tx.rollback();
         }
     }
 

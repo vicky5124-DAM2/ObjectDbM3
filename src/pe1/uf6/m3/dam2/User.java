@@ -1,17 +1,19 @@
 package pe1.uf6.m3.dam2;
 
 import javax.jdo.annotations.Index;
+import javax.jdo.annotations.Unique;
 import javax.persistence.Basic;
 import javax.persistence.Entity;
-import javax.persistence.Id;
 import java.util.Date;
 
 @Entity
 public abstract class User {
 
     @Index(unique = "true")
+    @Unique
     private int id;
     @Index(unique = "true")
+    @Unique
     @Basic(optional = false)
     private String username;
     @Basic(optional = false)
@@ -19,6 +21,7 @@ public abstract class User {
     @Basic(optional = false)
     private String lastname;
     @Index(unique = "true")
+    @Unique
     @Basic(optional = false)
     private String email;
     private String city;

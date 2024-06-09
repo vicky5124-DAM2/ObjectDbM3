@@ -1,12 +1,16 @@
 package pe1.uf6.m3.dam2;
 
 import javax.jdo.annotations.Index;
+import javax.jdo.annotations.Indices;
 import javax.jdo.annotations.Unique;
 import javax.persistence.*;
 import java.util.Date;
 import java.util.LinkedList;
 
 @Entity
+@Indices({
+        @Index(members = {"id"}, unique = "true")
+})
 @NamedQueries({
         @NamedQuery(name = "Course.findAll", query = "SELECT c FROM Course c ORDER BY c.fullname"),
         @NamedQuery(name = "Course.findById", query = "SELECT c FROM Course c WHERE c.id = :id"),
@@ -15,12 +19,6 @@ public class Course {
     private static final double MIN_GRADE = 0.0;
     private static final double MAX_GRADE = 10.0;
 
-    @OneToMany(cascade = CascadeType.ALL)
-    @Basic(optional = false)
-    private final LinkedList<Enrollment> enrolled;
-    @OneToMany(cascade = CascadeType.ALL)
-    @Basic(optional = false)
-    private final LinkedList<Teacher> teachers;
     @Index(unique = "true")
     @Unique
     private int id;
@@ -32,6 +30,11 @@ public class Course {
     private Date startdate;
     @Basic(optional = false)
     private String category;
+
+    @OneToMany(cascade = CascadeType.ALL)
+    private LinkedList<Enrollment> enrolled;
+    @OneToMany(cascade = CascadeType.ALL)
+    private LinkedList<Teacher> teachers;
 
     public Course(int id, String fullname, String shortname, Date startdate, String category) {
         super();
